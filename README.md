@@ -1,4 +1,4 @@
-# Supply Chain Data Cleaning & Analysisata Cleaning & Analysis using MS SQL & Python
+# Supply Chain Data Cleaning & Analysis using MS SQL & Python
 
 ## **📌 Overview**
 
